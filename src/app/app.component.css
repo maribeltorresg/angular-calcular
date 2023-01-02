@@ -1,0 +1,30 @@
+input {
+  /* border: none; */
+  /* border-bottom: 1px solid black; */
+  padding: 20px;
+}
+
+select {
+  max-width: 542px;
+  margin: auto;
+}
+
+.no-eligio {
+  color: red;
+}
+
+.suma {
+  color: blue;
+}
+
+.resta {
+  color: orange;
+}
+
+.multipli {
+  color: green;
+}
+
+.divide {
+  color: blueviolet;
+}
